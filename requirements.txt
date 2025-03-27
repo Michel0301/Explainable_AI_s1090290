@@ -1,0 +1,8 @@
+tensorflow
+tf-keras-vis
+lime
+shap
+numpy
+matplotlib
+scikit-image
+--upgrade tensorflow tf-keras-vis shap
